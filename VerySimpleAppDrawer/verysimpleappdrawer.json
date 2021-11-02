@@ -1,0 +1,17 @@
+{
+	"icon_size": 64,
+	"apps":[
+		{
+			"app_path":"C:/Users/ernes/AppData/Local/Programs/Opera/launcher.exe",
+			"app_icon":"D:/Cloud Storage/OneDrive/Organized/Opera Icons/firefox.png"
+		},
+		{
+			"app_path":"C:/Users/ernes/AppData/Local/Programs/Opera/launcher.exe",
+			"app_icon":"D:/Cloud Storage/OneDrive/Organized/Opera Icons/chrome.png"
+		},
+		{
+			"app_path":"C:/Users/ernes/AppData/Local/Programs/Opera/launcher.exe",
+			"app_icon":"D:/Cloud Storage/OneDrive/Organized/Opera Icons/Discord.png"
+		}
+	]
+}
